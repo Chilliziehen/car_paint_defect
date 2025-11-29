@@ -1,0 +1,5 @@
+Sharpness_Level,Lower_Bound,Upper_Bound,Description
+Clear,25,9999,Image is sharp, edges preserved
+Slight_Blur,15,25,Minor blur but acceptable for detection
+Moderate_Blur,8,15,Noticeable blur, detection reduced
+Heavy_Blur,0,8,Severe blur, details lost
